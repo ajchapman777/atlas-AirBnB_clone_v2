@@ -9,7 +9,7 @@ app = Flask(__name__)
 def hello_hbnb():
     """ Prints a Message when / is called """
     
-    return 'Hello HBNB! '
+    return 'Hello HBNB!'
 
 if __name__=='__main__':
     """ Main Function """
