@@ -14,9 +14,11 @@ def hello_hbnb():
 
 @app.route('/hbnb', strict_slashes=False)
 
+
 def hbnb():
     """ Prints a Message when /hbnb is called """
     return 'HBNB'
+
 
 if __name__ == "__main__":
     """ Main Function """
