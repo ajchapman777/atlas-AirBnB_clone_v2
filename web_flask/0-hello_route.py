@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """ Starts a Flash Web Application """
 
 from flask import Flask
@@ -15,7 +14,6 @@ def hello_hbnb():
     """ Prints a Message when / is called """
 
     return 'Hello HBNB!'
-
 
 if __name__ == "__main__":
 
