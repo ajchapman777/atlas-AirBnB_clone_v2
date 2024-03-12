@@ -16,6 +16,7 @@ def hello_hbnb():
 
 
 def hbnb():
+
     """ Prints a Message when /hbnb is called """
     return 'HBNB'
 
